@@ -12,7 +12,7 @@ Install the `selenium` and `webdriver_manager` python libraries:
 
 ## Usage:
 
-`./fpaywall.py https://link/to/article`
+`python fpaywall.py https://link/to/article`
 
 ### Troubleshooting:
 Ensure current version of chrome is updated to the latest one and the above python libraries are correctly installed.
